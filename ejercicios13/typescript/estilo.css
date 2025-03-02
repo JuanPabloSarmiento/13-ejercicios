@@ -1,0 +1,25 @@
+body{
+    margin: auto;
+    display: flexbox;
+    gap: 10px;
+    border: 2px solid black;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+div{
+    margin: auto;
+    max-width: 60%;
+    min-height: 50px;
+    border: 2px solid black;
+    padding: 20px;
+    display: flexbox;
+}
+script{
+    padding: 10px;
+    margin: auto;
+}
+#h88{
+    color: aqua;
+    background-color: #f1ef67;
+    font-size: 1.2rem;
+}
